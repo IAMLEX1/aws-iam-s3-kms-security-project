@@ -25,13 +25,13 @@ Designed and implemented a secure AWS storage environment using IAM, S3, and KMS
 ![KMS Key](screenshots/kms-key.png)
 
 ## ⚙️ KMS Configuration
-![KMS Config](screenshots/kms-details.png)
+<img src="https://github.com/user-attachments/assets/c1c69d62-81a9-4197-b405-257dad0eafa8" width="900" />
 
 ## 🔐 S3 Encryption Enabled
-![S3 Encryption](screenshots/s3-encryption.png)
+<img src="https://github.com/user-attachments/assets/3e684996-5ba6-4cb2-9c6d-a787e6833bb6" width="900" />
 
 ## 📦 S3 Object Upload
-![S3 Object](screenshots/s3-object.png)
+<img src="https://github.com/user-attachments/assets/173cbefb-8e79-4438-b0c6-f4ebb3fbca02"  width="900" />
 
 ---
 
